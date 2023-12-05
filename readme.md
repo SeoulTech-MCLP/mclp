@@ -1,4 +1,4 @@
-# SEOUL TECH BA Subjects
+# SEOULTECH BA Subjects
 
 ## Problem Description
 ### Super Aged Society
